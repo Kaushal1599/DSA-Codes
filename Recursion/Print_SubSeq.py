@@ -1,5 +1,5 @@
 """
-Print all the subarrays of the given array 
+Print all the subseq of the given array 
 
 """
 
